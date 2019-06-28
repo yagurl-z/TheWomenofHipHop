@@ -1,0 +1,93 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+
+ body{
+   background-color:#B5DAFF;
+   font-size: 125%;
+ }
+
+ .steps{
+   width: 550px;
+   height: 600px;
+   border-style: solid;
+   border-color: #6692E8;
+   border-height: 15px;
+   border-width: 15px;
+ }
+
+
+
+ .text{
+   font-family: 'Bree Serif', serif;
+   background-color:white;
+   color:white;
+ }
+
+
+ .impact{
+   color:white;
+   font-family: 'Cutive Mono', monospace;
+ }
+
+ .encouragement{
+   color:white;
+   font-family: 'Cutive Mono', monospace;
+ }
+
+
+ .imageCaption{
+   color: black;
+     font-family: 'Cutive Mono', monospace;
+ }
+
+
+
+
+ .button{
+   height: 80px;
+   width: 160px;
+   background-color:#6692E8;
+   font-family: 'Cutive Mono', monospace;
+   font-size: 20px;
+   color: white;
+ }
+
+ .quoteshere{
+   font-family: 'Cutive Mono', monospace;
+   /* margin-left: 20px; */
+   background-color: #6692E8;
+
+ }
+
+ .quotesimages{
+   width: 165px;
+   height: 225px;
+   border-style: solid;
+   border-color: #6692E8;
+   border-height: 10px;
+   border-width: 10px;
+ }
+
+
+ .row{
+     margin-right: -15px;
+     margin-left: -15px;
+ }
+
+ .column {
+     width: 16.66%;
+     padding-left: 195px;
+     margin-bottom: 100px;
+     display: inline-block;
+
+ }
+
+ .column1 {
+     width: 16.66%;
+     padding-left: 195px;
+     padding-left: 195px;
+     display: inline-block;
+ }

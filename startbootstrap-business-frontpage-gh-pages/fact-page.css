@@ -1,0 +1,43 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template-overviews/blog-post)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+ body {
+   padding-top: 56px;
+   font-family: 'Cutive Mono', monospace;
+   background-color: #B5DAFF;
+ }
+
+   button {
+     font-family: 'Cutive Mono', monospace;
+     background-color: #777777;
+     color: white;
+     font-size: 25px;
+   }
+
+   a {
+     color: white;
+   }
+
+   hr {
+     width: 750px;
+   }
+
+   .blockquote-footer {
+     color: White;
+   margin-left: vg 80%;
+   }
+
+   p{
+     font-size: 20px;
+   }
+
+
+   h5{
+   color: #4D9FE8;
+   }
+
+   img{
+     width: 500px;
+   }
